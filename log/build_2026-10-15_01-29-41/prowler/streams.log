@@ -1,0 +1,18 @@
+[1.193s] Invoking command in '/home/dronzer/prowler/build/prowler': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/dronzer/prowler/build/prowler/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dronzer/prowler/install/prowler/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/dronzer/prowler/build/prowler/build --no-deps symlink_data
+[1.614s] running develop
+[1.931s] running egg_info
+[1.962s] writing prowler.egg-info/PKG-INFO
+[1.963s] writing dependency_links to prowler.egg-info/dependency_links.txt
+[1.963s] writing entry points to prowler.egg-info/entry_points.txt
+[1.963s] writing requirements to prowler.egg-info/requires.txt
+[1.963s] writing top-level names to prowler.egg-info/top_level.txt
+[2.029s] reading manifest file 'prowler.egg-info/SOURCES.txt'
+[2.030s] writing manifest file 'prowler.egg-info/SOURCES.txt'
+[2.062s] running build_ext
+[2.062s] Creating /home/dronzer/prowler/install/prowler/lib/python3.12/site-packages/prowler.egg-link (link to .)
+[2.063s] Installing joy_teleop script to /home/dronzer/prowler/install/prowler/lib/prowler
+[2.063s] 
+[2.063s] Installed /home/dronzer/prowler/build/prowler
+[2.064s] running symlink_data
+[2.064s] symbolically linking /home/dronzer/prowler/build/prowler/config/prowler_slam.rviz -> /home/dronzer/prowler/install/prowler/share/prowler/config
+[2.097s] Invoked command in '/home/dronzer/prowler/build/prowler' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/dronzer/prowler/build/prowler/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dronzer/prowler/install/prowler/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/dronzer/prowler/build/prowler/build --no-deps symlink_data

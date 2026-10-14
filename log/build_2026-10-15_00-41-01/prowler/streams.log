@@ -1,0 +1,26 @@
+[1.044s] Invoking command in '/home/dronzer/prowler/build/prowler': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/dronzer/prowler/build/prowler/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dronzer/prowler/install/prowler/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/dronzer/prowler/build/prowler/build --no-deps symlink_data
+[1.459s] running develop
+[1.771s] running egg_info
+[1.771s] creating prowler.egg-info
+[1.802s] writing prowler.egg-info/PKG-INFO
+[1.802s] writing dependency_links to prowler.egg-info/dependency_links.txt
+[1.802s] writing entry points to prowler.egg-info/entry_points.txt
+[1.802s] writing requirements to prowler.egg-info/requires.txt
+[1.803s] writing top-level names to prowler.egg-info/top_level.txt
+[1.803s] writing manifest file 'prowler.egg-info/SOURCES.txt'
+[1.870s] reading manifest file 'prowler.egg-info/SOURCES.txt'
+[1.870s] writing manifest file 'prowler.egg-info/SOURCES.txt'
+[1.903s] running build_ext
+[1.903s] Creating /home/dronzer/prowler/install/prowler/lib/python3.12/site-packages/prowler.egg-link (link to .)
+[1.903s] Installing joy_teleop script to /home/dronzer/prowler/install/prowler/lib/prowler
+[1.904s] 
+[1.904s] Installed /home/dronzer/prowler/build/prowler
+[1.904s] running symlink_data
+[1.904s] creating /home/dronzer/prowler/install/prowler/share/ament_index
+[1.904s] creating /home/dronzer/prowler/install/prowler/share/ament_index/resource_index
+[1.904s] creating /home/dronzer/prowler/install/prowler/share/ament_index/resource_index/packages
+[1.904s] symbolically linking /home/dronzer/prowler/build/prowler/resource/prowler -> /home/dronzer/prowler/install/prowler/share/ament_index/resource_index/packages
+[1.905s] symbolically linking /home/dronzer/prowler/build/prowler/package.xml -> /home/dronzer/prowler/install/prowler/share/prowler
+[1.905s] creating /home/dronzer/prowler/install/prowler/share/prowler/launch
+[1.905s] symbolically linking /home/dronzer/prowler/build/prowler/launch/sim_joystick.launch.py -> /home/dronzer/prowler/install/prowler/share/prowler/launch
+[1.943s] Invoked command in '/home/dronzer/prowler/build/prowler' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/dronzer/prowler/build/prowler/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dronzer/prowler/install/prowler/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/dronzer/prowler/build/prowler/build --no-deps symlink_data

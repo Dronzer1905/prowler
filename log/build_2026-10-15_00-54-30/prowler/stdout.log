@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing prowler.egg-info/PKG-INFO
+writing dependency_links to prowler.egg-info/dependency_links.txt
+writing entry points to prowler.egg-info/entry_points.txt
+writing requirements to prowler.egg-info/requires.txt
+writing top-level names to prowler.egg-info/top_level.txt
+reading manifest file 'prowler.egg-info/SOURCES.txt'
+writing manifest file 'prowler.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/dronzer/prowler/install/prowler/lib/python3.12/site-packages/prowler.egg-link (link to .)
+Installing joy_teleop script to /home/dronzer/prowler/install/prowler/lib/prowler
+
+Installed /home/dronzer/prowler/build/prowler
+running symlink_data
+creating /home/dronzer/prowler/install/prowler/share/prowler/config
+symbolically linking /home/dronzer/prowler/build/prowler/config/mapper_params_online_async.yaml -> /home/dronzer/prowler/install/prowler/share/prowler/config
